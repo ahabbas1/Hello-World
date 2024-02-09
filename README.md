@@ -1,13 +1,13 @@
 # Hello-World
 ## Table of Contents
 
--[PROJECT TITLE](#Project-Title)
--[DESCRIPTION](#Description)
--[FILES USED](#Files-Used)
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [FILES USED](#Files-Used)
 
 ## Project Title
 
-'**Hello World**'
+**Hello World**
 
 ## Description
 
