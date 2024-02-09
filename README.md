@@ -15,5 +15,5 @@ Creating my first respository and learning the formatting.
 
 ## Files Used
 
-[Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
